@@ -1,0 +1,128 @@
+body{
+   background-color: #ECEEF1;
+}
+.App {
+    text-align: center;
+    font-size: 12px;
+    
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+.already-have-account {
+    width: 100%;
+    padding: 10px 30px;
+}
+.header-container {
+    margin-left: auto;
+    width: 301px;
+    display: flex;
+
+    height: 36px;
+    color: #505050;
+}
+.header-container-component {
+    margin-left: 10px;
+}
+.header-container-component a {
+    color: #0077c5;
+}
+.sign-in-button {
+    color: white;
+    background-color: #0077c5;
+    border-radius: 5px;
+    border: 1px solid grey;
+    padding: 0 20px;
+    display: flex;
+    align-items: center;
+    height: 34px;
+}
+.sign-in-icon {
+    height: 25px;
+    width: 16px;
+    margin-right: 6px;
+}
+
+.main-logo{
+  width: 100%;
+  height: 75px;
+  padding: 20px 0;
+}
+.logo-container{
+  height: 35px;
+}
+.logo {
+    display: block;
+    background-image: url(./images/ecosystem_logos_new@2x-9448e6be.png);
+    background-size: 562px 83px;
+    width: 118px;
+    height: 35px;
+    margin: 0 auto;
+}
+
+.products{
+  width: 100%;
+  height: 43px;
+  padding-bottom: 4px;
+}
+.products-list{
+  width: 100%;
+  height: 23px;
+}
+.products-list ul {
+    display: block;
+    position: relative;
+    text-align: center;
+    height: 23px;
+    width: 318px;
+    margin: 0 auto 1rem;
+}
+.products-list > ul > li {
+    display: inline-block;
+    cursor: pointer;
+    margin-right: .375rem;
+}
+
+.products-list > ul > li > span {
+    display: inline-block;
+    position: relative;
+    height: 23px;
+    width: 23px;
+}
+
+.mint{
+   background: url(./images/mint.svg) no-repeat;
+   width: auto;
+   margin-right: 4px;
+}
+.mint-a{
+  display: inline-block;
+   background: url(./images/mint-link.svg) no-repeat;
+    width: 37px;
+    height: 20px;
+}
+.quickbooks{
+     background: url(./images/quickbooks.svg) no-repeat;
+   width: auto;
+   margin-right: 4px;
+}
+.quickbooks-a{
+  display: inline-block;
+   background: url(./images/quickbooks-link.svg) no-repeat;
+    width: 98px;
+    height: 20px;
+}
+.turbotax{
+     background: url(./images/turbotax.svg) no-repeat;
+   width: auto;
+   margin-right: 4px;
+}
+.turbotax-a{
+  display: inline-block;
+   background: url(./images/turbotax-link.svg) no-repeat;
+    width: 74px;
+    height: 20px;
+}
