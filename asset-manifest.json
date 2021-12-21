@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/HTML-FORMS/static/css/main.c149dff4.css",
+    "main.js": "/HTML-FORMS/static/js/main.054f9d5e.js",
+    "static/media/ecosystem_logos_new@2x-9448e6be.png": "/HTML-FORMS/static/media/ecosystem_logos_new@2x-9448e6be.9448e6be11b338f58472.png",
+    "static/media/quickbooks-link.svg": "/HTML-FORMS/static/media/quickbooks-link.4b197d9350e230800546.svg",
+    "static/media/turbotax-link.svg": "/HTML-FORMS/static/media/turbotax-link.0fd71d98e3d3f564dbd2.svg",
+    "static/media/mint-link.svg": "/HTML-FORMS/static/media/mint-link.72978f1d9284805f60c5.svg",
+    "index.html": "/HTML-FORMS/index.html",
+    "static/media/quickbooks.svg": "/HTML-FORMS/static/media/quickbooks.b34c37422b6ab427cb83.svg",
+    "static/media/mint.svg": "/HTML-FORMS/static/media/mint.6f729f8dc12edec922bc.svg",
+    "static/media/turbotax.svg": "/HTML-FORMS/static/media/turbotax.fd64d6d5bfe75e795285.svg",
+    "main.c149dff4.css.map": "/HTML-FORMS/static/css/main.c149dff4.css.map",
+    "main.054f9d5e.js.map": "/HTML-FORMS/static/js/main.054f9d5e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c149dff4.css",
+    "static/js/main.054f9d5e.js"
+  ]
+}
