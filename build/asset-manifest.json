@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/SIGN-UP-FORM/static/css/main.b03b4d3d.css",
+    "main.js": "/SIGN-UP-FORM/static/js/main.054f9d5e.js",
+    "static/media/ecosystem_logos_new@2x-9448e6be.png": "/SIGN-UP-FORM/static/media/ecosystem_logos_new@2x-9448e6be.9448e6be11b338f58472.png",
+    "static/media/quickbooks-link.svg": "/SIGN-UP-FORM/static/media/quickbooks-link.4b197d9350e230800546.svg",
+    "static/media/turbotax-link.svg": "/SIGN-UP-FORM/static/media/turbotax-link.0fd71d98e3d3f564dbd2.svg",
+    "static/media/mint-link.svg": "/SIGN-UP-FORM/static/media/mint-link.72978f1d9284805f60c5.svg",
+    "index.html": "/SIGN-UP-FORM/index.html",
+    "static/media/quickbooks.svg": "/SIGN-UP-FORM/static/media/quickbooks.b34c37422b6ab427cb83.svg",
+    "static/media/mint.svg": "/SIGN-UP-FORM/static/media/mint.6f729f8dc12edec922bc.svg",
+    "static/media/turbotax.svg": "/SIGN-UP-FORM/static/media/turbotax.fd64d6d5bfe75e795285.svg",
+    "main.b03b4d3d.css.map": "/SIGN-UP-FORM/static/css/main.b03b4d3d.css.map",
+    "main.054f9d5e.js.map": "/SIGN-UP-FORM/static/js/main.054f9d5e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b03b4d3d.css",
+    "static/js/main.054f9d5e.js"
+  ]
+}
